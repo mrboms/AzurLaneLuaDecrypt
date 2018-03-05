@@ -1,0 +1,2 @@
+# AzurLaneLuaDecrypt
+AzurLane Lua Decrypt
